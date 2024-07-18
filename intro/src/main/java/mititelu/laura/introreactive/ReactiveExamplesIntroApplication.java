@@ -1,13 +1,13 @@
-package mititelu.laura.reactive_examples;
+package mititelu.laura.introreactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReactiveExamplesApplication {
+public class ReactiveExamplesIntroApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReactiveExamplesApplication.class, args);
+		SpringApplication.run(ReactiveExamplesIntroApplication.class, args);
 	}
 
 }
